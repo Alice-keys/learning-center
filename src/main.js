@@ -18,6 +18,7 @@ import {
     Toolbar,
     Tooltip
 } from "primevue";
+import router from "./router.js";
 
 // noinspection JSCheckFunctionSignatures
 createApp(App)
